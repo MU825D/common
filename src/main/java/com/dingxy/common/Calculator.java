@@ -1,4 +1,4 @@
-package com.dxy.common;
+package com.dingxy.common;
 
 import java.util.ArrayList;
 import java.util.List;
