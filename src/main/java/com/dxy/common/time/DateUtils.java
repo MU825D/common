@@ -1,4 +1,4 @@
-package com.dingxy.common.time;
+package com.dxy.common.time;
  
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

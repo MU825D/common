@@ -1,4 +1,4 @@
-package com.dingxy.common.json;
+package com.dxy.common.json;
 
 import org.apache.commons.lang3.StringUtils;
 
